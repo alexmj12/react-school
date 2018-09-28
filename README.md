@@ -4,26 +4,24 @@ description: 'React school content:'
 
 # React school
 
-**React introduction**
+## React introduction
 
-**React vs Angular**
+1. React vs Angular
 
-**Setup of base react project: Node.js, Yarn, VSCode, Typescript, React, Webpack**
+2. Setup of base react project: Node.js, Yarn, VSCode, Typescript, React, Webpack
 
-**First React component and React.Fragment**
+3. First React component and React.Fragment
 
-**JavaScriptXml**
+4. JavaScriptXml
 
-**Properties**
+5. Properties
 
-**Basic styles**
+6. Basic styles
 
-**React component state**
+7. React component state
 
-**.map\(\) function**
+8. map\(\) function
 
-**Events**
+9. Events
 
-**Hometask**  
-
-
+### Hometask

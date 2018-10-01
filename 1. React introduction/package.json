@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack --mode development",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "server": "webpack-dev-server --mode development --open --hot"
   },
   "devDependencies": {
     "@types/react": "16.4.14",
@@ -15,7 +16,8 @@
     "html-webpack-plugin": "3.2.0",
     "typescript": "3.1.1",
     "webpack": "4.20.2",
-    "webpack-cli": "3.1.1"
+    "webpack-cli": "3.1.1",
+    "webpack-dev-server": "^3.1.9"
   },
   "dependencies": {
     "react": "16.5.2",

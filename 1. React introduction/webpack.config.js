@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const HtmlWebpackExternalsPlugin = require("html-webpack-externals-plugin");
 
 module.exports = {
-  // Changed the entry point to a .tsx file
+  // Changed the entry point to a .tsx fileaw
   entry: "./src/index.tsx",
   // Enable sourcemaps for debugging Webpack's output
   devtool: "source-map",
